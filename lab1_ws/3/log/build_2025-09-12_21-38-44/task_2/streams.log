@@ -1,0 +1,52 @@
+[1.497s] Invoking command in '/home/me597/lab1_ws/3/task_2': AMENT_PREFIX_PATH=/home/me597/lab1_ws/install/task_2_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/me597/lab1_ws/install/task_2_interfaces LD_LIBRARY_PATH=/home/me597/lab1_ws/install/task_2_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/me597/lab1_ws/build/task_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages:/home/me597/lab1_ws/install/task_2_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_2 build --build-base /home/me597/lab1_ws/build/task_2/build install --record /home/me597/lab1_ws/build/task_2/install.log --single-version-externally-managed install_data
+[2.160s] running egg_info
+[2.162s] creating ../../build/task_2/task_2.egg-info
+[2.163s] writing ../../build/task_2/task_2.egg-info/PKG-INFO
+[2.164s] writing dependency_links to ../../build/task_2/task_2.egg-info/dependency_links.txt
+[2.165s] writing entry points to ../../build/task_2/task_2.egg-info/entry_points.txt
+[2.165s] writing requirements to ../../build/task_2/task_2.egg-info/requires.txt
+[2.165s] writing top-level names to ../../build/task_2/task_2.egg-info/top_level.txt
+[2.165s] writing manifest file '../../build/task_2/task_2.egg-info/SOURCES.txt'
+[2.171s] reading manifest file '../../build/task_2/task_2.egg-info/SOURCES.txt'
+[2.171s] adding license file 'LICENSE'
+[2.173s] writing manifest file '../../build/task_2/task_2.egg-info/SOURCES.txt'
+[2.174s] running build
+[2.174s] running build_py
+[2.174s] creating /home/me597/lab1_ws/build/task_2/build
+[2.175s] creating /home/me597/lab1_ws/build/task_2/build/lib
+[2.175s] creating /home/me597/lab1_ws/build/task_2/build/lib/task_2
+[2.175s] copying task_2/task2_client.py -> /home/me597/lab1_ws/build/task_2/build/lib/task_2
+[2.175s] copying task_2/task_2_sub.py -> /home/me597/lab1_ws/build/task_2/build/lib/task_2
+[2.176s] copying task_2/__init__.py -> /home/me597/lab1_ws/build/task_2/build/lib/task_2
+[2.176s] copying task_2/task_2_pub.py -> /home/me597/lab1_ws/build/task_2/build/lib/task_2
+[2.176s] copying task_2/task2_service.py -> /home/me597/lab1_ws/build/task_2/build/lib/task_2
+[2.176s] running install
+[2.177s] running install_lib
+[2.178s] creating /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[2.179s] copying /home/me597/lab1_ws/build/task_2/build/lib/task_2/task2_client.py -> /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[2.179s] copying /home/me597/lab1_ws/build/task_2/build/lib/task_2/task_2_sub.py -> /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[2.179s] copying /home/me597/lab1_ws/build/task_2/build/lib/task_2/__init__.py -> /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[2.179s] copying /home/me597/lab1_ws/build/task_2/build/lib/task_2/task_2_pub.py -> /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[2.180s] copying /home/me597/lab1_ws/build/task_2/build/lib/task_2/task2_service.py -> /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[2.181s] byte-compiling /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2/task2_client.py to task2_client.cpython-310.pyc
+[2.183s] byte-compiling /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2/task_2_sub.py to task_2_sub.cpython-310.pyc
+[2.184s] byte-compiling /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2/__init__.py to __init__.cpython-310.pyc
+[2.184s] byte-compiling /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2/task_2_pub.py to task_2_pub.cpython-310.pyc
+[2.186s] byte-compiling /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2/task2_service.py to task2_service.cpython-310.pyc
+[2.186s] running install_data
+[2.186s] creating /home/me597/lab1_ws/install/task_2/share/ament_index
+[2.187s] creating /home/me597/lab1_ws/install/task_2/share/ament_index/resource_index
+[2.187s] creating /home/me597/lab1_ws/install/task_2/share/ament_index/resource_index/packages
+[2.187s] copying resource/task_2 -> /home/me597/lab1_ws/install/task_2/share/ament_index/resource_index/packages
+[2.187s] copying package.xml -> /home/me597/lab1_ws/install/task_2/share/task_2
+[2.187s] creating /home/me597/lab1_ws/install/task_2/share/task_2/launch
+[2.187s] copying launch/service_launch.py -> /home/me597/lab1_ws/install/task_2/share/task_2/launch
+[2.188s] running install_egg_info
+[2.191s] Copying ../../build/task_2/task_2.egg-info to /home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2-0.0.0-py3.10.egg-info
+[2.194s] running install_scripts
+[2.252s] Installing client script to /home/me597/lab1_ws/install/task_2/lib/task_2
+[2.254s] Installing listener script to /home/me597/lab1_ws/install/task_2/lib/task_2
+[2.254s] Installing service script to /home/me597/lab1_ws/install/task_2/lib/task_2
+[2.255s] Installing talker script to /home/me597/lab1_ws/install/task_2/lib/task_2
+[2.255s] writing list of installed files to '/home/me597/lab1_ws/build/task_2/install.log'
+[2.294s] Invoked command in '/home/me597/lab1_ws/3/task_2' returned '0': AMENT_PREFIX_PATH=/home/me597/lab1_ws/install/task_2_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/me597/lab1_ws/install/task_2_interfaces LD_LIBRARY_PATH=/home/me597/lab1_ws/install/task_2_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/me597/lab1_ws/build/task_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/me597/lab1_ws/install/task_2/lib/python3.10/site-packages:/home/me597/lab1_ws/install/task_2_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_2 build --build-base /home/me597/lab1_ws/build/task_2/build install --record /home/me597/lab1_ws/build/task_2/install.log --single-version-externally-managed install_data

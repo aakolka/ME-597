@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-469fa95626d998c12598.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "task_2_interfaces__py",
+					"jsonFile" : "directory-task_2_interfaces__py-a984a4f0543dff033716.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/me597/lab1_ws/build/task_2_interfaces/task_2_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "task_2_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_task_2_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_task_2_interfaces_egg-5b70b200aad86c97d07a.json",
+					"name" : "ament_cmake_python_build_task_2_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_task_2_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_task_2_interfaces-7e16b799237d8527bfac.json",
+					"name" : "ament_cmake_python_copy_task_2_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces-5afd3154d21ecf669771.json",
+					"name" : "task_2_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__cpp-77f791a112afd23957fc.json",
+					"name" : "task_2_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "task_2_interfaces__py::@27ee627161459ee41a81",
+					"jsonFile" : "target-task_2_interfaces__py-9bd1eadd26224a73a518.json",
+					"name" : "task_2_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_generator_c-c20e68ef4135ddd42744.json",
+					"name" : "task_2_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_generator_py-ffd035463c62cd404f7c.json",
+					"name" : "task_2_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_c-30e58284a101463085af.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_c__pyext-1518cbe2fc5a7b4ea17f.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_cpp-1ff2e83f99a5ad60957a.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_fastrtps_c-f99ac820ce281fc68699.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_fastrtps_c__pyext-15287e99b6e7cc0b27b8.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_fastrtps_cpp-e9a23e09eeaef06c1d9e.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_introspection_c-b5d79bdfb1e9cef81ba7.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_introspection_c__pyext-2bf91150ebd9bf8b8e31.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces__rosidl_typesupport_introspection_cpp-1f91a38058f9f67f971f.json",
+					"name" : "task_2_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_interfaces_uninstall-ede511b743f05b2ea3b5.json",
+					"name" : "task_2_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-89ac6545dbe2c4af4b60.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/me597/lab1_ws/build/task_2_interfaces",
+		"source" : "/home/me597/lab1_ws/3/task_2_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

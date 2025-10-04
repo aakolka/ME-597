@@ -1,0 +1,4 @@
+[console_scripts]
+listener = task_1.basic_sub:main
+talker = task_1.basic_pub:main
+

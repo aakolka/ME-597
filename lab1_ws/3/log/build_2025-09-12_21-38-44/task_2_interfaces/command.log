@@ -1,0 +1,6 @@
+Invoking command in '/home/me597/lab1_ws/build/task_2_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/me597/lab1_ws/3/task_2_interfaces -DCMAKE_INSTALL_PREFIX=/home/me597/lab1_ws/install/task_2_interfaces
+Invoked command in '/home/me597/lab1_ws/build/task_2_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/me597/lab1_ws/3/task_2_interfaces -DCMAKE_INSTALL_PREFIX=/home/me597/lab1_ws/install/task_2_interfaces
+Invoking command in '/home/me597/lab1_ws/build/task_2_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/me597/lab1_ws/build/task_2_interfaces -- -j2 -l2
+Invoked command in '/home/me597/lab1_ws/build/task_2_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/me597/lab1_ws/build/task_2_interfaces -- -j2 -l2
+Invoking command in '/home/me597/lab1_ws/build/task_2_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/me597/lab1_ws/build/task_2_interfaces
+Invoked command in '/home/me597/lab1_ws/build/task_2_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/me597/lab1_ws/build/task_2_interfaces
