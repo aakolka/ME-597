@@ -15,11 +15,14 @@ creating /home/me597/lab3_ws/build/task_4/build
 creating /home/me597/lab3_ws/build/task_4/build/lib
 creating /home/me597/lab3_ws/build/task_4/build/lib/task_4
 copying task_4/__init__.py -> /home/me597/lab3_ws/build/task_4/build/lib/task_4
+copying task_4/auto_navigator.py -> /home/me597/lab3_ws/build/task_4/build/lib/task_4
 running install
 running install_lib
 creating /home/me597/lab3_ws/install/task_4/lib/python3.10/site-packages/task_4
 copying /home/me597/lab3_ws/build/task_4/build/lib/task_4/__init__.py -> /home/me597/lab3_ws/install/task_4/lib/python3.10/site-packages/task_4
+copying /home/me597/lab3_ws/build/task_4/build/lib/task_4/auto_navigator.py -> /home/me597/lab3_ws/install/task_4/lib/python3.10/site-packages/task_4
 byte-compiling /home/me597/lab3_ws/install/task_4/lib/python3.10/site-packages/task_4/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/me597/lab3_ws/install/task_4/lib/python3.10/site-packages/task_4/auto_navigator.py to auto_navigator.cpython-310.pyc
 running install_data
 creating /home/me597/lab3_ws/install/task_4/share/ament_index
 creating /home/me597/lab3_ws/install/task_4/share/ament_index/resource_index
@@ -28,7 +31,11 @@ copying resource/task_4 -> /home/me597/lab3_ws/install/task_4/share/ament_index/
 copying package.xml -> /home/me597/lab3_ws/install/task_4/share/task_4
 creating /home/me597/lab3_ws/install/task_4/share/task_4/launch
 copying launch/gen_sync_map_launch.py -> /home/me597/lab3_ws/install/task_4/share/task_4/launch
+creating /home/me597/lab3_ws/install/task_4/share/task_4/maps
+copying maps/sync_classroom_map.pgm -> /home/me597/lab3_ws/install/task_4/share/task_4/maps
+copying maps/sync_classroom_map.yaml -> /home/me597/lab3_ws/install/task_4/share/task_4/maps
 running install_egg_info
 Copying ../../build/task_4/task_4.egg-info to /home/me597/lab3_ws/install/task_4/lib/python3.10/site-packages/task_4-0.0.0-py3.10.egg-info
 running install_scripts
+Installing auto_navigator script to /home/me597/lab3_ws/install/task_4/lib/task_4
 writing list of installed files to '/home/me597/lab3_ws/build/task_4/install.log'

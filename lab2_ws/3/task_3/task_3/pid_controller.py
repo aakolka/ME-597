@@ -56,10 +56,6 @@ class PID_control(Node):
         if self.right_dist - self.target < .01 and self.target - self.right_dist > .01:
             vel = 0
         
-        
-        
-        
-        
         cmd = Twist()
         cmd.linear.x = vel
         self.publisher_.publish(cmd)
