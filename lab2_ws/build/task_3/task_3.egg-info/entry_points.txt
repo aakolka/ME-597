@@ -1,3 +1,0 @@
-[console_scripts]
-pid_speed_controller = task_3.pid_controller:main
-
