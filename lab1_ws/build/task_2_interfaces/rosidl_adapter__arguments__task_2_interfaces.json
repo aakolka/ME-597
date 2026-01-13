@@ -1,7 +1,0 @@
-{
-  "package_name": "task_2_interfaces",
-  "non_idl_tuples": [
-    "/home/me597/lab1_ws/3/task_2_interfaces:msg/JointData.msg",
-    "/home/me597/lab1_ws/3/task_2_interfaces:srv/JointState.srv"
-  ]
-}

@@ -1,6 +1,0 @@
-[console_scripts]
-client = task_2.task2_client:main
-listener = task_2.task_2_sub:main
-service = task_2.task2_service:main
-talker = task_2.task_2_pub:main
-
