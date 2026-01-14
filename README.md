@@ -56,4 +56,20 @@ sudo apt install ros-humble-navigation2
 ```
 pip install pynput
 ```
-5. Install the repo
+5. Install OpenCV and cv_bridge in ROS2
+```
+sudo apt install python3-numpy
+sudo apt install libboost-python-dev
+sudo apt install python3-opencv
+```
+6. Clone the OpenCV repo
+```
+cd <YOUR_ROS2_WORKSPACE>/src
+git clone https://github.com/ros-perception/vision_opencv.git -b rolling
+cd ..
+colcon build --symlink-install
+```
+7. Install the repo
+```
+
+```
