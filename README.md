@@ -71,5 +71,5 @@ colcon build --symlink-install
 ```
 7. Install the repo
 ```
-
+git clone https://github.com/aakolka/ME-597.git
 ```
